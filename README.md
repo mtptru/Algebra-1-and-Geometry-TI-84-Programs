@@ -12,3 +12,5 @@ Quadform: This program solves a quadratic equation in the form: AX^2 + BX + C = 
 SPACEDIA: This program finds the length of a space diagonal of rectangular prism
 Sphere: This program finds the volume and total surface area of a sphere. Pi is used in the program so it is advised to divide by pi in order to recieve an exact answer rather than a decimal approximation.
 Trap: This program finds the area of a trapezoid. In this program ("D") refers to the upper base of the trapezoid
+
+Note: These programs are compatible for both Ti-84 Plus and Ti-84 Plus CE calculators.
